@@ -21,6 +21,5 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/vranki/spectral.git
-        commit: 2cac07ba5ea79a7727865863cf0b75d3e71a2224
-        tag: 'idf-0'
+        commit: 6bb6e966ca927520b088a7945979738242940851
 
